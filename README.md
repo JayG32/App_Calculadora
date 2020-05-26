@@ -1,4 +1,4 @@
-# App_Calculadora#App Calculadora 
+# App Calculadora em JavaScript
 
 
 Programa desenvolvido como exercício do curso de Desenvolvimeto Web da Plataforma UDEMY
